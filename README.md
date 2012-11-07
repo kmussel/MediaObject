@@ -1,4 +1,5 @@
 MediaObject
 ===========
 
-little hack to parse out youtube/dailymotion and flickr links and get the images for each link
+A way to check for youtube, dailymotion, flickr and instagram links.  
+Then uses the oembed api to grab the image/video to embed it.
